@@ -1,0 +1,10 @@
+
+#van {
+  width: auto;
+  height: 300px;
+}
+#bg{
+  position: absolute;
+  height: auto;
+  z-index: -1;
+}
